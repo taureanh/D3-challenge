@@ -1,3 +1,5 @@
+## project deployed at https://taureanh.github.io/D3_project/.
+
 ![Newsroom](https://media.giphy.com/media/v2xIous7mnEYg/giphy.gif)
 
 ## Background
