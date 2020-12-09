@@ -121,4 +121,4 @@ function makeResponsive() {
     }
     makeResponsive();
 
-    12345678
+    1234567
