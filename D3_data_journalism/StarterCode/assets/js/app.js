@@ -56,7 +56,7 @@ function makeResponsive() {
             .attr("transform", `translate(0, ${height})`)
             .call(xAxis);
 
-        chart.append("g")
+        chartGroup.append("g")
             .call(yAxis);
 
         //create circles for states
