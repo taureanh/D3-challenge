@@ -25,5 +25,5 @@ Screenshot of data
 
 ![](D3_data_journalism/StarterCode/images/pic2.png)
 
-a
+
 
