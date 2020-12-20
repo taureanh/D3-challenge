@@ -12,7 +12,7 @@ Welcome to the newsroom! You've just accepted a data visualization position for 
 The objective of this homework is to create a scatter plot that represents each state with circle elements using D3 techniques. We'll code this graphic in the `app.js` file of our homework directory. Data will be pulled in from `data.csv` by using the `d3.csv` function.
 
 
-![](D3-challenge\D3_data_journalism\StarterCode\images\pic1.png)\
+![](D3-challenge/D3_data_journalism/StarterCode/images/pic1.png)\
 
 Programs used:\
 HTML\
@@ -21,7 +21,7 @@ JavaScript.
 
 The data set included with the assignment is based on 2014 ACS 1-year estimates: [https://factfinder.census.gov/faces/nav/jsf/pages/searchresults.xhtml](https://factfinder.census.gov/faces/nav/jsf/pages/searchresults.xhtml), but you are free to investigate a different data set. The current data set includes data on rates of income, obesity, poverty, etc. by state. MOE stands for "margin of error.
 
-Screenshot of data\
+Screenshot of data
 
-![](D3-challenge\D3_data_journalism\StarterCode\images\pic2.png)\
+![](D3-challenge/D3_data_journalism/StarterCode/images/pic2.png)\
 
