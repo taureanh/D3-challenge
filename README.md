@@ -18,7 +18,7 @@ The objective of this homework is to create a scatter plot that represents each 
 * HTML
 * CSS
 * JavaScript.
-
+* Visual Studio Code
 
 ## Data
 
@@ -29,4 +29,6 @@ The data set included with the assignment is based on 2014 ACS 1-year estimates:
 ![](D3_data_journalism/StarterCode/images/pic2.png)
 
 
-
+## Requirements to run
+* Download folder and open in VS Code
+* Go live from index html file
