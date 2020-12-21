@@ -14,14 +14,17 @@ The objective of this homework is to create a scatter plot that represents each 
 
 ![](D3_data_journalism/StarterCode/images/pic1.png)
 
-Programs used:\
-HTML\
-CSS\
-JavaScript.
+## Programs used:\
+* HTML\
+* CSS\
+* JavaScript.
+
+
+## Data
 
 The data set included with the assignment is based on 2014 ACS 1-year estimates: [https://factfinder.census.gov/faces/nav/jsf/pages/searchresults.xhtml](https://factfinder.census.gov/faces/nav/jsf/pages/searchresults.xhtml), but you are free to investigate a different data set. The current data set includes data on rates of income, obesity, poverty, etc. by state. MOE stands for "margin of error.
 
-Screenshot of data
+## Screenshot of data
 
 ![](D3_data_journalism/StarterCode/images/pic2.png)
 
