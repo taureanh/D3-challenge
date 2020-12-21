@@ -14,9 +14,9 @@ The objective of this homework is to create a scatter plot that represents each 
 
 ![](D3_data_journalism/StarterCode/images/pic1.png)
 
-## Programs used:\
-* HTML\
-* CSS\
+## Programs used:
+* HTML
+* CSS
 * JavaScript.
 
 
